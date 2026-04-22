@@ -1,0 +1,23 @@
+node_modules/
+.env
+dist/
+build/
+coverage/
+*.log
+.DS_Store
+Thumbs.db
+
+# Java / Spring / Eclipse
+target/
+*.class
+*.jar
+*.war
+*.ear
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+
+# VS Code
+.vscode/
